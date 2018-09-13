@@ -1,5 +1,5 @@
 # unity3d-travis-ci
-![Build Status](https://travis-ci.org/SixGodZhang/unity3d-travis-ci.svg?branch=master)
+![master](https://img.shields.io/travis/SixGodZhang/unity3d-travis-ci.svg) | ![master]
 [![unity version](https://img.shields.io/badge/unity%20version-2017.2.0f3-green.svg)]()
 
 A simple example on how to use Travis-CI to build (Windows 64-bit), test, and deploy a Unity Package to a Github Release. The example Unity Package is a scene with a cube bouncing.
